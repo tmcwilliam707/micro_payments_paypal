@@ -8,7 +8,7 @@ cursor = conn.cursor()
 cursor.execute("SELECT COUNT(*) FROM transactions")
 print(f"Total transactions: {cursor.fetchone()[0]}")
 
-# Preview first 5 rows
+
 cursor.execute("SELECT * FROM transactions LIMIT 5")
 for row in cursor.fetchall():
     print(row)
