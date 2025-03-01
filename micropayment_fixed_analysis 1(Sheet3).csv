@@ -1,0 +1,13 @@
+amount_segment,experiment_variant,Count of transaction_id,Average of fee_amount,Sum of is_failed,failure_rate
+Micropayment,0,10108,0.380048484,3531,34.93%
+,1,9902,0.1,2827,28.55%
+Micropayment Total,,20010,0.241465771,6358,31.77%
+Grand Total,,20010,0.241465771,6358,31.77%
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
